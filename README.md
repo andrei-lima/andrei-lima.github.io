@@ -1,3 +1,3 @@
 # Portfólio
 
-https://andrei_lima.github.io/
+https://andrei-lima.github.io/
